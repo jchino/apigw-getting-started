@@ -44,13 +44,13 @@ OCI API ゲートウェイ・サービスを使用するために必要な IAM �
 1. [API のテスト][test_api]
 1. [ログ・ファイルのダウンロード][download_logfiles]
 
-[create_vcn]:        #section1 "仮想クラウド・ネットワーク (VCN) の作成"
-[deploy_functions]:  #section2 "Oracle Functions アプリケーションとファンクションのデプロイ"
-[gw_policies]:       #section3 "API ゲートウェイから Oracle Functions のリソースへのアクセス"
-[create_instance]:   #section4 "API ゲートウェイのインスタンスの作成"
-[deploy_api]:        #section5 "API のデプロイ"
-[test_api]:          #section6 "API のテスト"
-[download_logfiles]: #section7 "ログ・ファイルのダウンロード"
+[create_vcn]:        #%E4%BB%AE%E6%83%B3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-vcn-%E3%81%AE%E4%BD%9C%E6%88%90 "仮想クラウド・ネットワーク (VCN) の作成"
+[deploy_functions]:  #oracle-functions-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4 "Oracle Functions アプリケーションとファンクションのデプロイ"
+[gw_policies]:       #api-%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%8B%E3%82%89-oracle-functions-%E3%81%AE%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9 "API ゲートウェイから Oracle Functions のリソースへのアクセス"
+[create_instance]:   #api-%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E4%BD%9C%E6%88%90 "API ゲートウェイのインスタンスの作成"
+[deploy_api]:        #api-%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4 "API のデプロイ"
+[test_api]:          #api-%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88 "API のテスト"
+[download_logfiles]: #%E3%83%AD%E3%82%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89 "ログ・ファイルのダウンロード"
 
 ## 仮想クラウド・ネットワーク (VCN) の作成
 
